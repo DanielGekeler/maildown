@@ -6,6 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PublishAOT>true</PublishAOT>
+
+    <Version>1.0.0</Version>
+    <Authors>Daniel Gekeler</Authors>
   </PropertyGroup>
 
   <ItemGroup>
